@@ -1,0 +1,5 @@
+1 | Aigbogun Alamba Daudu | Internal Affairs | South West
+2 | Murtala Afeez Bendu | Justice | North East
+3 | Okorocha Calistus Ogbonna | Defense | South South
+4 | Adewale Jimoh Akanbi | Power & Steel | South West
+5 | Osazuwa Faith Etiyeye | Petroleum | South East

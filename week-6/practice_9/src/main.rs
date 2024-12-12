@@ -1,4 +1,4 @@
-// The iter() function fetches values of all elements in an array.
+// The iter() function fetches values of all elements
 
 
 fn main(){
